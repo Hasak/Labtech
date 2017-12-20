@@ -1,0 +1,12 @@
+[16-Mar-2018 06:27:18 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'service'@'localhost' (using password: YES) in /home/quattrof/public_html/lab/php/db.php on line 8
+[16-Mar-2018 07:27:18 Europe/Sarajevo] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/quattrof/public_html/lab/php/first.php on line 11
+[16-Mar-2018 07:27:18 Europe/Sarajevo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/quattrof/public_html/lab/index.php on line 81
+[16-Mar-2018 07:27:18 Europe/Sarajevo] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/quattrof/public_html/lab/index.php on line 82
+[16-Mar-2018 06:27:18 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'service'@'localhost' (using password: YES) in /home/quattrof/public_html/lab/php/db.php on line 8
+[16-Mar-2018 07:27:18 Europe/Sarajevo] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/quattrof/public_html/lab/php/first.php on line 11
+[26-Mar-2018 14:26:50 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/quattrof/public_html/lab/admin.php:10) in /home/quattrof/public_html/lab/php/first.php on line 8
+[26-Mar-2018 14:27:17 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/quattrof/public_html/lab/admin.php:10) in /home/quattrof/public_html/lab/php/first.php on line 8
+[16-Apr-2018 17:31:11 Europe/Sarajevo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/quattrof/public_html/lab/createquote.php:6) in /home/quattrof/public_html/lab/createquote.php on line 18
+[21-Apr-2018 19:28:48 Europe/Sarajevo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/quattrof/public_html/lab/createquote.php:6) in /home/quattrof/public_html/lab/createquote.php on line 18
+[21-Apr-2018 19:28:55 Europe/Sarajevo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/quattrof/public_html/lab/createquote.php:6) in /home/quattrof/public_html/lab/createquote.php on line 18
+[08-May-2018 03:56:01 Europe/Sarajevo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/quattrof/public_html/lab/createquote.php:6) in /home/quattrof/public_html/lab/createquote.php on line 18

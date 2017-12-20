@@ -1,0 +1,16 @@
+[16-Mar-2018 06:27:22 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'service'@'localhost' (using password: YES) in /home/quattrof/public_html/lab/php/db.php on line 8
+[16-Mar-2018 07:27:22 Europe/Sarajevo] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/quattrof/public_html/lab/php/ajax.php on line 11
+[16-Mar-2018 07:27:22 Europe/Sarajevo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/quattrof/public_html/lab/php/ajax.php on line 59
+[16-Mar-2018 07:27:22 Europe/Sarajevo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/quattrof/public_html/lab/php/ajax.php on line 60
+[16-Mar-2018 06:27:23 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'service'@'localhost' (using password: YES) in /home/quattrof/public_html/lab/php/db.php on line 8
+[16-Mar-2018 07:27:23 Europe/Sarajevo] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/quattrof/public_html/lab/php/ajax.php on line 11
+[16-Mar-2018 07:27:23 Europe/Sarajevo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/quattrof/public_html/lab/php/ajax.php on line 59
+[16-Mar-2018 07:27:23 Europe/Sarajevo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/quattrof/public_html/lab/php/ajax.php on line 60
+[16-Mar-2018 06:27:25 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'service'@'localhost' (using password: YES) in /home/quattrof/public_html/lab/php/db.php on line 8
+[16-Mar-2018 07:27:25 Europe/Sarajevo] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/quattrof/public_html/lab/php/ajax.php on line 11
+[16-Mar-2018 07:27:25 Europe/Sarajevo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/quattrof/public_html/lab/php/ajax.php on line 59
+[16-Mar-2018 07:27:25 Europe/Sarajevo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/quattrof/public_html/lab/php/ajax.php on line 60
+[16-Mar-2018 06:27:28 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'service'@'localhost' (using password: YES) in /home/quattrof/public_html/lab/php/db.php on line 8
+[16-Mar-2018 07:27:28 Europe/Sarajevo] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/quattrof/public_html/lab/php/ajax.php on line 11
+[16-Mar-2018 07:27:28 Europe/Sarajevo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/quattrof/public_html/lab/php/ajax.php on line 59
+[16-Mar-2018 07:27:28 Europe/Sarajevo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/quattrof/public_html/lab/php/ajax.php on line 60
